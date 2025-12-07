@@ -1,0 +1,1 @@
+This project contains my Programming Fundamentals Quiz. It includes questions based on the main topics we studied, such as variables, data types, conditions, loops, and basic functions. The quiz is made to test understanding of PF concepts in a clear and simple way. All questions and code files are organized so they can be easily checked and reviewed.
