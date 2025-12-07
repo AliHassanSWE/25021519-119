@@ -1,3 +1,8 @@
+/*Write a program for a spa and wellness center. Read N services
+ performed and price for each service. If price > 2200 mark it
+  as "Premium Service". Print total income and count of premium 
+  services. Use variables, loops, input/output and conditions.*/
+
 #include <iostream>
 using namespace std;
 
